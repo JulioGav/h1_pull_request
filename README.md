@@ -2,7 +2,7 @@ Repositorio del Hack #2 👌
 
 # h1_pull_request
 
-✔[Enlace](https://github.com/Mugiwaralong/hg_1_alfa)
+✔[Enlace][(https://github.com/Mugiwaralong/hg_1_alfa)]
 
 ✔[Enlace](https://github.com/JulioGav/hg_1_bravo)
 
